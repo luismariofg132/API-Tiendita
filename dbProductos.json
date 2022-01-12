@@ -70,6 +70,10 @@
     ],
     "uicaciones": [
         {
+            "id": 0,
+            "ciudad": "Selecciona"
+        },
+        {
             "id": 1,
             "ciudad": "Armenia"
         },
