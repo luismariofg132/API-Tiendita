@@ -3,35 +3,35 @@
         {
             "id": 1,
             "nombre": "Limon con semilla",
-            "precioFinal": 26.8,
+            "precio": 26.8,
             "precioInicial": 39.9,
             "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1641436680/Sprint%201/Name_Limon_mwosop.jpg"
         },
         {
             "id": 2,
             "nombre": "Tomate",
-            "precioFinal": 21.7,
+            "precio": 21.7,
             "precioInicial": 32.9,
             "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1641436674/Sprint%201/Name_Tomate_ffzfcz.jpg"
         },
         {
             "id": 3,
             "nombre": "Aguacate Hass",
-            "precioFinal": 56.8,
+            "precio": 56.8,
             "precioInicial": 69.9,
             "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1641436673/Sprint%201/Name_Aguacate_pg33qy.jpg"
         },
         {
             "id": 4,
             "nombre": "Nopal Limpio",
-            "precioFinal": 25.8,
+            "precio": 25.8,
             "precioInicial": 29.9,
             "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1641436674/Sprint%201/Name_Nopal_knbh0g.jpg"
         },
         {
             "id": 5,
             "nombre": "Tomate verde sin cascara",
-            "precioFinal": 22.8,
+            "precio": 22.8,
             "precioInicial": 24.9,
             "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1641436674/Sprint%201/Name_Tomate_verde_x6qdty.jpg"
         }
